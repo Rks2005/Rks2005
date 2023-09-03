@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rks2005.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning C language.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with a lot who can help me to achieve to greater heights.
 - 📫 How to reach me ...
 
 <!---
